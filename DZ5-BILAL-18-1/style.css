@@ -1,0 +1,36 @@
+body{
+    background-color: #3D7395;
+
+}
+.wrapper{
+    text-align: center;
+    font-size: 25px;
+}
+h1{
+    color: #CCE5DA;
+}
+h2{
+    color: #757575;
+}
+.btn{
+    margin: 10px;
+    color: white;
+    background-color: #48A1C3;
+    border-radius: 15px;
+    border-color: #AB9C9F;
+    font-size: 30px;
+}
+.add_delete{
+    background-color: #25B0F3;
+    color: #757575;
+    border-radius: 30px;
+    
+    font-size: 25px;
+    display: inline;
+    text-align: center;
+}
+.wrapper_two{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
